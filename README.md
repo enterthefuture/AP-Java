@@ -12,3 +12,5 @@ Contents
 **SMS** - Simple command line messenger.
 
 **Squawkbox** - GUI messenger.
+
+**HW1 / Multiple** - Tells if two intergers are multiple of each other.
