@@ -14,3 +14,7 @@ Contents
 **Squawkbox** - GUI messenger.
 
 **HW1 / Multiple** - Tells if two intergers are multiple of each other.
+
+**ChaosRealmsJ** - Planned basic RPG (Removed, didn't happen)
+
+**AndToPC** - PC Control server. Currently in pieces. Will eventually have android app. Might move to its own repo.
